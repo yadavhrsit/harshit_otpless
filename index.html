@@ -16,8 +16,9 @@
         function otpless(otplessUser) {
             var waName = otplessUser.waName;
             var waNumber = otplessUser.waNumber;
-            document.getElementById('otpless').innerHTML =
-                `<h2 class ="login"> Hi ${waName} Welcome !</h2>`;
+            window.location.replace('/welcome.html');
+            // document.getElementById('otpless').innerHTML =
+            //     `<h2 class ="login"> Hi ${waName} Welcome !</h2>`;
         }
     </script>
 </body>
