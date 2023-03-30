@@ -1,2 +1,0 @@
-# harshit_otpless
- OTPLessAssignment
