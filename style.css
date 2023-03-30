@@ -53,6 +53,12 @@ section{
 }
 
 /* navbar design */
+.otpless{
+    position: absolute;
+    z-index: 99;
+    top: 5px;
+    right: 5px;
+}
 
 .navbar {
     height: 64px;
