@@ -53,7 +53,7 @@ section{
 }
 
 /* navbar design */
-.otpless{
+#otpless{
     position: absolute;
     z-index: 99;
     top: 5px;
