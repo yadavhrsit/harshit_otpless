@@ -976,3 +976,10 @@ td{
     transform-origin: right;
     transform: scaleX(1);
 }
+
+.otpless{
+    background-color: #17177e;
+}
+#otpless{
+    background-color: #c4161c;
+}
