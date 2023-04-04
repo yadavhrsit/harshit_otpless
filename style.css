@@ -976,3 +976,6 @@ td{
     transform-origin: right;
     transform: scaleX(1);
 }
+#otpless-button{
+    background: #17177e;
+}
