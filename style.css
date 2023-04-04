@@ -977,5 +977,5 @@ td{
     transform: scaleX(1);
 }
 #otpless-button{
-    background: #17177e;
+    background: #17177e !important;
 }
